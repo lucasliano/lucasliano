@@ -23,6 +23,6 @@
 
 - 🔭 I’m currently working on [filters design](https://github.com/lucasliano/TC2)
 - 🔬 Check out my [scientific publications](https://github.com/lucasliano/publications)
-- 🌱 I’m currently learning about [Xilinx ZYNQ Ultrascale+](https://www.xilinx.com/products/silicon-devices/soc/zynq-ultrascale-mpsoc.html)
+- 🌱 I’m currently learning about [Xilinx ZYNQ UltraScale+](https://www.xilinx.com/products/silicon-devices/soc/zynq-ultrascale-mpsoc.html)
 - 👯 I’m looking to collaborate on open source projects
 - 💬  You can always [DM me](https://www.instagram.com/lucas_liano/)
