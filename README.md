@@ -11,17 +11,17 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucasliano&layout=compact&langs_count=10&theme=ayu-mirage" />
 </a>
 
-<a href="https://github.com/lucasliano/gimbal">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=lucasliano&repo=gimbal&show_owner=true&theme=ayu-mirage" />
+<a href="https://github.com/lucasliano/lorawan_cubesat">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=lucasliano&repo=lorawan_cubesat&show_owner=true&theme=ayu-mirage" />
 </a>
-<a href="https://github.com/lucasliano/TC2">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=lucasliano&repo=TC2&show_owner=true&theme=ayu-mirage" />
+<a href="https://github.com/lucasliano/td2project">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=lucasliano&repo=td2project&show_owner=true&theme=ayu-mirage" />
 </a>
 
 ---
 
 
-- 🔭 I’m currently working on [filters design](https://github.com/lucasliano/TC2)
+- 🔭 I’m currently working on [LoRaWAN Gateway for Cubesat missions](https://github.com/lucasliano/lorawan_cubesat)
 - 🔬 Check out my [scientific publications](https://github.com/lucasliano/publications)
 - 🌱 I’m currently learning about [SpaceVPX and FMC standards](https://www.vita.com/Standards)
 - 👯 I’m looking to collaborate on open source FPGA projects
