@@ -5,9 +5,6 @@
 </p>
 
 <a href="https://github.com/lucasliano/">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=lucasliano&count_private=true&show_icons=true&theme=ayu-mirage" />
-</a>
-<a href="https://github.com/lucasliano/">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucasliano&layout=compact&langs_count=10&theme=ayu-mirage" />
 </a>
 
